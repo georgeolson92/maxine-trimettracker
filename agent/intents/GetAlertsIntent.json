@@ -1,0 +1,66 @@
+{
+  "id": "b3b57f27-1855-4e0e-8399-3dffa752c6e0",
+  "name": "GetAlertsIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "018e0225-6a39-4c4b-8a12-ad156084d397",
+          "name": "stops",
+          "required": false,
+          "dataType": "@stops",
+          "value": "$stops",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What stop are you looking for alerts at? Provide the name or Stop ID."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4414f64b-3167-4c1e-9e98-148b7b8ee8a9",
+          "name": "max-lines",
+          "required": false,
+          "dataType": "@max-lines",
+          "value": "$max-lines",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

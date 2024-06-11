@@ -1,0 +1,9 @@
+{
+  "id": "f3314471-0d46-4df1-a8ed-29aa0613a90c",
+  "name": "max-lines",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "12540b45-300c-43e3-b06e-eb5e667bab33",
+  "name": "HelpIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can ask me to plan a trip for you (\u0027I want to plan a trip from Portland State University to Expo Center\u0027) or you can ask for alerts at any MAX stop (\u0027Are there any alerts at Rosa Parks MAX Station\u0027), or you can ask for upcoming arrivals at any stop (\u0027What is the next arrival at Moda Center MAX Station\u0027), or you can ask for the closest station to you (\u0027What is the closest stop to Peninsula Park\u0027). What can I do for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "6b201050-3cd6-4a56-a71c-e9bb239c6bb6",
+    "data": [
+      {
+        "text": "Check the next arrival at ",
+        "userDefined": false
+      },
+      {
+        "text": "Old Town/Chinatown MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5633ddb8-815e-436a-b16e-31120e454340",
+    "data": [
+      {
+        "text": "When is the next arrival at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "9824",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55f83ae4-5cc3-4df5-b828-70fa5a23acb5",
+    "data": [
+      {
+        "text": "When does the next train arrive at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton Central MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8178a07c-69db-4f3e-9d08-600c2fe9eabc",
+    "data": [
+      {
+        "text": "What time is the next arrival at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "8342",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6970baf-db50-4d93-a79a-202426ac4efe",
+    "data": [
+      {
+        "text": "When is the next arrival at ",
+        "userDefined": false
+      },
+      {
+        "text": "NE 7th Ave MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a1c0e51-80e9-4d73-b083-e464aee3f7a5",
+    "data": [
+      {
+        "text": "When is the next arrival at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "8333",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e60ee170-ce58-49ac-9ab2-fb465b0b281a",
+    "data": [
+      {
+        "text": "Check the arrivals at ",
+        "userDefined": false
+      },
+      {
+        "text": "Library/SW 9th Ave MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d801756-9d80-432e-a95f-ce474efd1a78",
+    "data": [
+      {
+        "text": "When does the next train arrive at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "9848",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7472ef5-e333-41b1-8ea0-0d4f3b742201",
+    "data": [
+      {
+        "text": "What time is the next arrival at ",
+        "userDefined": false
+      },
+      {
+        "text": "Hatfield Government Center MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a33f017-6f4c-4eac-b5fd-086ee4cdc0ab",
+    "data": [
+      {
+        "text": "Check the next arrival at ",
+        "userDefined": false
+      },
+      {
+        "text": "SW 6th \u0026 Pine MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "144b2d7b-da34-4f6e-9b88-ea5a64e823b7",
+    "data": [
+      {
+        "text": "Check the next arrival at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "9299",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "678ddac9-ba9f-4c50-903b-8fc6b389b8b7",
+    "data": [
+      {
+        "text": "When are the next arrivals at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "7777",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "649af045-2e67-4a94-9747-e91bd2f3fbc0",
+    "data": [
+      {
+        "text": "When are the next arrivals at ",
+        "userDefined": false
+      },
+      {
+        "text": "E 162nd Ave MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d943e122-1442-4c04-8263-415d24b436da",
+    "data": [
+      {
+        "text": "When is the next arrival at ",
+        "userDefined": false
+      },
+      {
+        "text": "Merlo Rd/SW 158th Ave MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

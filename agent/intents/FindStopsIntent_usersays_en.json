@@ -1,0 +1,347 @@
+[
+  {
+    "id": "2d272915-aaf9-4967-9385-d6c8a7e1c8f5",
+    "data": [
+      {
+        "text": "Are there any MAX stations near ",
+        "userDefined": false
+      },
+      {
+        "text": "Eliot",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0cd9012-b034-4bca-b35d-860faf4a5969",
+    "data": [
+      {
+        "text": "Can you find a MAX station by ",
+        "userDefined": false
+      },
+      {
+        "text": "Cedar Hills",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b09a16c0-62d1-4f38-b726-845b402f38ba",
+    "data": [
+      {
+        "text": "Can you find a stop by ",
+        "userDefined": false
+      },
+      {
+        "text": "Piedmont",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3174800d-c48f-42f3-97a8-191c25ddc2a9",
+    "data": [
+      {
+        "text": "Is there a MAX station near ",
+        "userDefined": false
+      },
+      {
+        "text": "the Pearl",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6549ec2-e253-47f8-8334-6d64cca83bf4",
+    "data": [
+      {
+        "text": "Is there a station near ",
+        "userDefined": false
+      },
+      {
+        "text": "Nob Hill",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b2c9d9a-1b9c-41b8-b057-f1173db3db81",
+    "data": [
+      {
+        "text": "Can you find the closest station to ",
+        "userDefined": false
+      },
+      {
+        "text": "Moda Center",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9234a600-e8c6-4cef-9279-97433f44cef0",
+    "data": [
+      {
+        "text": "Is there a max stop near ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a75032db-2ade-49ac-82f6-dc50980567ee",
+    "data": [
+      {
+        "text": "Can you find the closest MAX stop to ",
+        "userDefined": false
+      },
+      {
+        "text": "Old Town",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1621a06a-ca27-4d6a-bc84-b8c1adda7aeb",
+    "data": [
+      {
+        "text": "Is there a stop near ",
+        "userDefined": false
+      },
+      {
+        "text": "Goose Hollow",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "782054f5-610a-4cde-bf5d-6408ecd01abf",
+    "data": [
+      {
+        "text": "Can you find the closest stop to ",
+        "userDefined": false
+      },
+      {
+        "text": "Woodlawn",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65884a6d-f7cc-4145-8d18-96fc719d9e22",
+    "data": [
+      {
+        "text": "What is the closest station to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland State University",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55c542a1-0113-4b2b-a409-fe6ef0538e28",
+    "data": [
+      {
+        "text": "What is the closest MAX stop to ",
+        "userDefined": false
+      },
+      {
+        "text": "Peninsula Park",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15645de3-89f7-452c-ae77-40e7648c8135",
+    "data": [
+      {
+        "text": "What is the closest MAX station to ",
+        "userDefined": false
+      },
+      {
+        "text": "Providence Park",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca1f706c-d683-482a-80a0-7f1d9b81b48e",
+    "data": [
+      {
+        "text": "What is the closest stop to ",
+        "userDefined": false
+      },
+      {
+        "text": "901 N Rosa Parks Way",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "989068d0-29b3-4b74-89e7-e2368db3e62d",
+    "data": [
+      {
+        "text": "What is the closest stop to ",
+        "userDefined": false
+      },
+      {
+        "text": "Arbor Lodge",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

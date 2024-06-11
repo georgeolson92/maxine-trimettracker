@@ -1,0 +1,353 @@
+[
+  {
+    "id": "aca47844-bfe4-4f42-8c7e-fb57175b16c7",
+    "data": [
+      {
+        "text": "Show me alerts at the ",
+        "userDefined": false
+      },
+      {
+        "text": "SE Park Ave MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24602f91-9ca6-4371-a1e5-489f50571f8a",
+    "data": [
+      {
+        "text": "Are there any alerts for the ",
+        "userDefined": false
+      },
+      {
+        "text": "PSU South/SW 6th \u0026 College MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d16fb29b-4714-4385-b02e-f3637b65253e",
+    "data": [
+      {
+        "text": "Can you tell me any alerts at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Gateway/NE 99th Ave TC MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c547cfcb-7745-409f-85e1-1709d07098f7",
+    "data": [
+      {
+        "text": "Are there any alerts for the ",
+        "userDefined": false
+      },
+      {
+        "text": "Hollywood/NE 42nd Ave TC MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21030249-5aa6-4622-807c-384d0c043b95",
+    "data": [
+      {
+        "text": "Can you tell me any alerts at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton TC MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce0e9a9d-a10b-4118-a419-6170c94b88c8",
+    "data": [
+      {
+        "text": "Are there any alerts on the ",
+        "userDefined": false
+      },
+      {
+        "text": "orange",
+        "meta": "@max-lines",
+        "alias": "max-lines",
+        "userDefined": false
+      },
+      {
+        "text": " line?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e18fc08-5d9e-4899-a937-f15fd6f17b8f",
+    "data": [
+      {
+        "text": "Do you have any alerts for the ",
+        "userDefined": false
+      },
+      {
+        "text": "green",
+        "meta": "@max-lines",
+        "alias": "max-lines",
+        "userDefined": false
+      },
+      {
+        "text": " line?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3906c2b-e77d-4167-867d-052ae2d2d0b7",
+    "data": [
+      {
+        "text": "Are there any alerts on the ",
+        "userDefined": false
+      },
+      {
+        "text": "blue",
+        "meta": "@max-lines",
+        "alias": "max-lines",
+        "userDefined": false
+      },
+      {
+        "text": " line?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7c774b0-ad19-4140-99e8-7b5c48c71661",
+    "data": [
+      {
+        "text": "Can you tell me any alerts for the ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@max-lines",
+        "alias": "max-lines",
+        "userDefined": false
+      },
+      {
+        "text": " line?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "765f66e5-764d-42c7-9330-6b2cd06e5380",
+    "data": [
+      {
+        "text": "Are there any alerts for the ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "meta": "@max-lines",
+        "alias": "max-lines",
+        "userDefined": true
+      },
+      {
+        "text": " line?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a69c55a9-4d66-43f5-9ee1-442a0412673a",
+    "data": [
+      {
+        "text": "Can you tell me any alerts at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "983",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": true
+      },
+      {
+        "text": "0",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4391a76a-3f1e-491e-ab2d-b24dc06b0a9f",
+    "data": [
+      {
+        "text": "Can you tell me any alerts at ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatama MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c4d9da9-5bd8-444c-b8f6-713b1d1a756b",
+    "data": [
+      {
+        "text": "Are there any alerts at stop number ",
+        "userDefined": false
+      },
+      {
+        "text": "9838",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b35907fe-17c1-422e-9a24-b394c0665a40",
+    "data": [
+      {
+        "text": "Are there any alerts at ",
+        "userDefined": false
+      },
+      {
+        "text": "Hatfield Government Center MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4c0d8da-dcd9-40d4-8313-371f064eb8f2",
+    "data": [
+      {
+        "text": "Are there any alerts at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuality Hospital/SE 8th Ave MAX Station",
+        "meta": "@stops",
+        "alias": "stops",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

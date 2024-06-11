@@ -1,0 +1,445 @@
+[
+  {
+    "id": "ab598d39-b001-46cb-a29b-452c58f4b6b8",
+    "data": [
+      {
+        "text": "Plan a route from ",
+        "userDefined": false
+      },
+      {
+        "text": "Hatfield Government Center",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland International Airport",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77f52c14-75d9-46f4-b6ae-7a4471a5830e",
+    "data": [
+      {
+        "text": "Plan a trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "SE Flavel St",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to the ",
+        "userDefined": false
+      },
+      {
+        "text": "Rose Quarter",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9361c14-095e-415c-a0f7-314434fab6e5",
+    "data": [
+      {
+        "text": "I need a trip planned from ",
+        "userDefined": false
+      },
+      {
+        "text": "Milwaukie",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to the ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland Library",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39c9dcd6-2be6-4aa6-9b72-c8002ac0e42c",
+    "data": [
+      {
+        "text": "Plan a trip between ",
+        "userDefined": false
+      },
+      {
+        "text": "PSU Urban Center",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Hillsboro Central",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94a1ea30-26ac-45da-ba10-58e19d9d6f51",
+    "data": [
+      {
+        "text": "How can I get from ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuality Hospital",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "SE 17th Ave \u0026 Rhine St",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4e81f1c-c4ef-43af-b63c-cd44a915d4ba",
+    "data": [
+      {
+        "text": "I want to plan a trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "Orenco MAX Station",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunset TC",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8031c100-7740-48ff-8456-6a52eae32b75",
+    "data": [
+      {
+        "text": "Plan a route from ",
+        "userDefined": false
+      },
+      {
+        "text": "Goose Hollow",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Gateway/NE 99th Ave TC",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba179ff6-0e60-4d43-b109-092831f2a626",
+    "data": [
+      {
+        "text": "Plan a trip between ",
+        "userDefined": false
+      },
+      {
+        "text": "SE Division St",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "SE Holgate Blvd",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "449a4c08-933d-49ad-ba0b-d668f59b8ec4",
+    "data": [
+      {
+        "text": "Plan a trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "Rockwood",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Pioneer Square",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2118c674-0314-4603-9d40-0de42f7e04cf",
+    "data": [
+      {
+        "text": "How do I get from ",
+        "userDefined": false
+      },
+      {
+        "text": "Goose Hollow",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland State University",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff78b126-1e07-4512-890c-133efc2206a8",
+    "data": [
+      {
+        "text": "I need to plan a trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "Lloyd Center",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Clackamas Town Center",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c89459c7-690a-4744-ac72-d8ac61381c64",
+    "data": [
+      {
+        "text": "Plan a trip between ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton TC",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Gresham Central TC",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "865390e8-e411-43f8-99b2-83c2dac62fce",
+    "data": [
+      {
+        "text": "Plan a trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington Park",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to the ",
+        "userDefined": false
+      },
+      {
+        "text": "Oregon Convention Center",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "014965f7-5ac5-46c1-9721-df8d46c32556",
+    "data": [
+      {
+        "text": "I want to plan a trip that goes from ",
+        "userDefined": false
+      },
+      {
+        "text": "Providence Park",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "the Moda Center",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e848c2d-5d74-41d8-b58b-b76aba0d0bcd",
+    "data": [
+      {
+        "text": "I want to plan a trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "Peninsula Park",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland State University",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

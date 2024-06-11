@@ -1,0 +1,598 @@
+[
+  {
+    "value": "Hatfield Government Center MAX Station",
+    "synonyms": [
+      "Hatfield Government Center MAX Station",
+      "9848"
+    ]
+  },
+  {
+    "value": "Hillsboro Central/SE 3rd TC MAX Station",
+    "synonyms": [
+      "Hillsboro Central/SE 3rd TC MAX Station",
+      "9846",
+      "Hillsboro Central Southeast Third Transit Center MAX Station",
+      "Hillsboro Central"
+    ]
+  },
+  {
+    "value": "Tuality Hospital/SE 8th Ave MAX Station",
+    "synonyms": [
+      "Tuality Hospital/SE 8th Ave MAX Station",
+      "9843",
+      "Tuality Hospital Southeast Eighth Ave MAX Station",
+      "Tuality Hospital"
+    ]
+  },
+  {
+    "value": "Washington/SE 12th Ave MAX Station",
+    "synonyms": [
+      "Washington/SE 12th Ave MAX Station",
+      "9841",
+      "Washington Southeast Twelfth Ave MAX Station"
+    ]
+  },
+  {
+    "value": "Fair Complex/Hillsboro Airport MAX Station",
+    "synonyms": [
+      "Fair Complex/Hillsboro Airport MAX Station",
+      "9838",
+      "Fair Complex",
+      "Hillsboro Airport"
+    ]
+  },
+  {
+    "value": "Hawthorn Farm MAX Station",
+    "synonyms": [
+      "Hawthorn Farm MAX Station",
+      "9839"
+    ]
+  },
+  {
+    "value": "Orenco MAX Station",
+    "synonyms": [
+      "Orenco MAX Station",
+      "9835"
+    ]
+  },
+  {
+    "value": "Quatama MAX Station",
+    "synonyms": [
+      "Quatama MAX Station",
+      "9834"
+    ]
+  },
+  {
+    "value": "Willow Creek/SW 185th Ave TC MAX Station",
+    "synonyms": [
+      "Willow Creek/SW 185th Ave TC MAX Station",
+      "9831",
+      "Willow Creek Southwest One hundred and fifth Ave Transit Center MAX Station",
+      "Willow Creek",
+      "Southwest One hundred and fifth Ave"
+    ]
+  },
+  {
+    "value": "Elmonica/SW 170th Ave MAX Station",
+    "synonyms": [
+      "Elmonica/SW 170th Ave MAX Station",
+      "9830",
+      "Elmonica Southwest one hundred and seventieth avenue max station"
+    ]
+  },
+  {
+    "value": "Merlo Rd/SW 158th Ave MAX Station",
+    "synonyms": [
+      "Merlo Rd/SW 158th Ave MAX Station",
+      "9828",
+      "Merlo Road Southwest One hundred and fifty eighth avenue MAX station"
+    ]
+  },
+  {
+    "value": "Beaverton Creek MAX Station",
+    "synonyms": [
+      "Beaverton Creek MAX Station",
+      "9822"
+    ]
+  },
+  {
+    "value": "Millikan Way MAX Station",
+    "synonyms": [
+      "Millikan Way MAX Station",
+      "9826"
+    ]
+  },
+  {
+    "value": "Beaverton Central MAX Station",
+    "synonyms": [
+      "Beaverton Central MAX Station",
+      "9824"
+    ]
+  },
+  {
+    "value": "Beaverton TC MAX Station",
+    "synonyms": [
+      "Beaverton TC MAX Station",
+      "9821"
+    ]
+  },
+  {
+    "value": "Sunset TC MAX Station",
+    "synonyms": [
+      "Sunset TC MAX Station",
+      "9969"
+    ]
+  },
+  {
+    "value": "Washington Park MAX Station",
+    "synonyms": [
+      "Washington Park MAX Station",
+      "10120"
+    ]
+  },
+  {
+    "value": "Goose Hollow/SW Jefferson St MAX Station",
+    "synonyms": [
+      "Goose Hollow/SW Jefferson St MAX Station",
+      "10118",
+      "Goose Hollow Southwest Jefferson Street MAX Station"
+    ]
+  },
+  {
+    "value": "Providence Park MAX Station",
+    "synonyms": [
+      "Providence Park MAX Station",
+      "9758"
+    ]
+  },
+  {
+    "value": "Library/SW 9th Ave MAX Station",
+    "synonyms": [
+      "Library/SW 9th Ave MAX Station",
+      "8333",
+      "Library Southwest Ninth Avenue MAX Station"
+    ]
+  },
+  {
+    "value": "Pioneer Square South MAX Station",
+    "synonyms": [
+      "Pioneer Square South MAX Station",
+      "8334"
+    ]
+  },
+  {
+    "value": "Yamhill District MAX Station",
+    "synonyms": [
+      "Yamhill District MAX Station",
+      "8336"
+    ]
+  },
+  {
+    "value": "Oak/SW 1st Ave MAX Station",
+    "synonyms": [
+      "Oak/SW 1st Ave MAX Station",
+      "8337"
+    ]
+  },
+  {
+    "value": "Skidmore Fountain MAX Station",
+    "synonyms": [
+      "Skidmore Fountain MAX Station",
+      "8338"
+    ]
+  },
+  {
+    "value": "Old Town/Chinatown MAX Station",
+    "synonyms": [
+      "Old Town/Chinatown MAX Station",
+      "8339"
+    ]
+  },
+  {
+    "value": "Rose Quarter TC MAX Station",
+    "synonyms": [
+      "Rose Quarter TC MAX Station",
+      "8340",
+      "8377"
+    ]
+  },
+  {
+    "value": "Convention Center MAX Station",
+    "synonyms": [
+      "Convention Center MAX Station",
+      "8341"
+    ]
+  },
+  {
+    "value": "NE 7th Ave MAX Station",
+    "synonyms": [
+      "NE 7th Ave MAX Station",
+      "8342"
+    ]
+  },
+  {
+    "value": "Lloyd Center/NE 11th Ave MAX Station",
+    "synonyms": [
+      "Lloyd Center/NE 11th Ave MAX Station",
+      "8343"
+    ]
+  },
+  {
+    "value": "Hollywood/NE 42nd Ave TC MAX Station",
+    "synonyms": [
+      "Hollywood/NE 42nd Ave TC MAX Station",
+      "8344"
+    ]
+  },
+  {
+    "value": "NE 60th Ave MAX Station",
+    "synonyms": [
+      "NE 60th Ave MAX Station",
+      "8345"
+    ]
+  },
+  {
+    "value": "NE 82nd Ave MAX Station",
+    "synonyms": [
+      "NE 82nd Ave MAX Station",
+      "8346"
+    ]
+  },
+  {
+    "value": "Gateway/NE 99th Ave TC MAX Station",
+    "synonyms": [
+      "Gateway/NE 99th Ave TC MAX Station",
+      "8347"
+    ]
+  },
+  {
+    "value": "E 102nd Ave MAX Station",
+    "synonyms": [
+      "E 102nd Ave MAX Station",
+      "8348"
+    ]
+  },
+  {
+    "value": "E 122nd Ave MAX Station",
+    "synonyms": [
+      "E 122nd Ave MAX Station",
+      "8349"
+    ]
+  },
+  {
+    "value": "E 148th Ave MAX Station",
+    "synonyms": [
+      "E 148th Ave MAX Station",
+      "8350"
+    ]
+  },
+  {
+    "value": "E 162nd Ave MAX Station",
+    "synonyms": [
+      "E 162nd Ave MAX Station",
+      "8351"
+    ]
+  },
+  {
+    "value": "E 172nd Ave MAX Station",
+    "synonyms": [
+      "E 172nd Ave MAX Station",
+      "8352"
+    ]
+  },
+  {
+    "value": "E 181st Ave MAX Station",
+    "synonyms": [
+      "E 181st Ave MAX Station",
+      "8353"
+    ]
+  },
+  {
+    "value": "Rockwood/E 188th Ave MAX Station",
+    "synonyms": [
+      "Rockwood/E 188th Ave MAX Station",
+      "8354"
+    ]
+  },
+  {
+    "value": "Ruby Junction/E 197th Ave MAX Station",
+    "synonyms": [
+      "Ruby Junction/E 197th Ave MAX Station",
+      "8355"
+    ]
+  },
+  {
+    "value": "Civic Drive MAX Station",
+    "synonyms": [
+      "Civic Drive MAX Station",
+      "13450"
+    ]
+  },
+  {
+    "value": "Gresham City Hall MAX Station",
+    "synonyms": [
+      "Gresham City Hall MAX Station",
+      "8356"
+    ]
+  },
+  {
+    "value": "Gresham Central TC MAX Station",
+    "synonyms": [
+      "Gresham Central TC MAX Station",
+      "8357"
+    ]
+  },
+  {
+    "value": "Cleveland Ave MAX Station",
+    "synonyms": [
+      "Cleveland Ave MAX Station",
+      "8359"
+    ]
+  },
+  {
+    "value": "PSU South/SW 6th \u0026 College MAX Station",
+    "synonyms": [
+      "PSU South/SW 6th \u0026 College MAX Station",
+      "10293"
+    ]
+  },
+  {
+    "value": "PSU Urban Center/SW 6th \u0026 Montgomery MAX Station",
+    "synonyms": [
+      "PSU Urban Center/SW 6th \u0026 Montgomery MAX Station",
+      "7774"
+    ]
+  },
+  {
+    "value": "Pioneer Courthouse/SW 6th Ave MAX Station",
+    "synonyms": [
+      "Pioneer Courthouse/SW 6th Ave MAX Station",
+      "7777"
+    ]
+  },
+  {
+    "value": "SW 6th \u0026 Pine MAX Station",
+    "synonyms": [
+      "SW 6th \u0026 Pine MAX Station",
+      "7787"
+    ]
+  },
+  {
+    "value": "NW 6th \u0026 Davis MAX Station",
+    "synonyms": [
+      "NW 6th \u0026 Davis MAX Station",
+      "9299"
+    ]
+  },
+  {
+    "value": "Union Station/NW 6th \u0026 Hoyt MAX Station",
+    "synonyms": [
+      "Union Station/NW 6th \u0026 Hoyt MAX Station",
+      "7763"
+    ]
+  },
+  {
+    "value": "SE Main St MAX Station",
+    "synonyms": [
+      "SE Main St MAX Station",
+      "13124"
+    ]
+  },
+  {
+    "value": "SE Division St MAX Station",
+    "synonyms": [
+      "SE Division St MAX Station",
+      "13125"
+    ]
+  },
+  {
+    "value": "SE Powell Blvd MAX Station",
+    "synonyms": [
+      "SE Powell Blvd MAX Station",
+      "13126"
+    ]
+  },
+  {
+    "value": "SE Holgate Blvd MAX Station",
+    "synonyms": [
+      "SE Holgate Blvd MAX Station",
+      "13127"
+    ]
+  },
+  {
+    "value": "Lents/SE Foster Rd MAX Station",
+    "synonyms": [
+      "Lents/SE Foster Rd MAX Station",
+      "13128"
+    ]
+  },
+  {
+    "value": "SE Flavel St MAX Station",
+    "synonyms": [
+      "SE Flavel St MAX Station",
+      "13129"
+    ]
+  },
+  {
+    "value": "SE Fuller Rd MAX Station",
+    "synonyms": [
+      "SE Fuller Rd MAX Station",
+      "13130"
+    ]
+  },
+  {
+    "value": "Clackamas Town Center TC MAX Station",
+    "synonyms": [
+      "Clackamas Town Center TC MAX Station",
+      "13132"
+    ]
+  },
+  {
+    "value": "SE Park Ave MAX Station",
+    "synonyms": [
+      "SE Park Ave MAX Station",
+      "13720"
+    ]
+  },
+  {
+    "value": "Milwaukie/Main St MAX Station",
+    "synonyms": [
+      "Milwaukie/Main St MAX Station",
+      "13721"
+    ]
+  },
+  {
+    "value": "SE Tacoma/Johnson Creek MAX Station",
+    "synonyms": [
+      "SE Tacoma/Johnson Creek MAX Station",
+      "13722"
+    ]
+  },
+  {
+    "value": "SE Bybee Blvd MAX Station",
+    "synonyms": [
+      "SE Bybee Blvd MAX Station",
+      "13723"
+    ]
+  },
+  {
+    "value": "SE 17th Ave \u0026 Holgate Blvd MAX Station",
+    "synonyms": [
+      "SE 17th Ave \u0026 Holgate Blvd MAX Station",
+      "13724"
+    ]
+  },
+  {
+    "value": "SE 17th Ave \u0026 Rhine St MAX Station",
+    "synonyms": [
+      "SE 17th Ave \u0026 Rhine St MAX Station",
+      "13725"
+    ]
+  },
+  {
+    "value": "Clinton St/SE 12th Ave MAX Station",
+    "synonyms": [
+      "Clinton St/SE 12th Ave MAX Station",
+      "13726"
+    ]
+  },
+  {
+    "value": "OMSI/SE Water MAX Station",
+    "synonyms": [
+      "OMSI/SE Water MAX Station",
+      "13727"
+    ]
+  },
+  {
+    "value": "South Waterfront/S Moody MAX Station",
+    "synonyms": [
+      "South Waterfront/S Moody MAX Station",
+      "13728"
+    ]
+  },
+  {
+    "value": "Lincoln St/SW 3rd Ave MAX Station",
+    "synonyms": [
+      "Lincoln St/SW 3rd Ave MAX Station",
+      "13729"
+    ]
+  },
+  {
+    "value": "Parkrose/Sumner TC MAX Station",
+    "synonyms": [
+      "Parkrose/Sumner TC MAX Station",
+      "10572"
+    ]
+  },
+  {
+    "value": "Cascades MAX Station",
+    "synonyms": [
+      "Cascades MAX Station",
+      "10574"
+    ]
+  },
+  {
+    "value": "Mt Hood Ave MAX Station",
+    "synonyms": [
+      "Mt Hood Ave MAX Station",
+      "10576"
+    ]
+  },
+  {
+    "value": "Portland Int\u0027l Airport MAX Station",
+    "synonyms": [
+      "Portland Int\u0027l Airport MAX Station",
+      "10579"
+    ]
+  },
+  {
+    "value": "Interstate/Rose Quarter MAX Station",
+    "synonyms": [
+      "Interstate/Rose Quarter MAX Station",
+      "11508"
+    ]
+  },
+  {
+    "value": "Albina/Mississippi MAX Station",
+    "synonyms": [
+      "Albina/Mississippi MAX Station",
+      "11509"
+    ]
+  },
+  {
+    "value": "Overlook Park MAX Station",
+    "synonyms": [
+      "Overlook Park MAX Station",
+      "11510"
+    ]
+  },
+  {
+    "value": "N Prescott St MAX Station",
+    "synonyms": [
+      "N Prescott St MAX Station",
+      "11511"
+    ]
+  },
+  {
+    "value": "N Killingsworth St MAX Station",
+    "synonyms": [
+      "N Killingsworth St MAX Station",
+      "11512"
+    ]
+  },
+  {
+    "value": "Rosa Parks MAX Station",
+    "synonyms": [
+      "Rosa Parks MAX Station",
+      "11513"
+    ]
+  },
+  {
+    "value": "N Lombard TC MAX Station",
+    "synonyms": [
+      "N Lombard TC MAX Station",
+      "11514"
+    ]
+  },
+  {
+    "value": "Kenton/N Denver Ave MAX Station",
+    "synonyms": [
+      "Kenton/N Denver Ave MAX Station",
+      "11515"
+    ]
+  },
+  {
+    "value": "Delta Park/Vanport MAX Station",
+    "synonyms": [
+      "Delta Park/Vanport MAX Station",
+      "11516"
+    ]
+  },
+  {
+    "value": "Expo Center MAX Station",
+    "synonyms": [
+      "Expo Center MAX Station",
+      "11498"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c25a0720-a5b6-4764-a541-1ae8a893d0b4",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fea7010-f912-4c5b-acca-c0575cc9434b",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46af2261-78e0-4819-a41d-a016a6263a12",
+    "data": [
+      {
+        "text": "I don\u0027t understand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

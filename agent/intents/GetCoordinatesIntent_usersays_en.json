@@ -1,0 +1,25 @@
+[
+  {
+    "id": "2e621fca-158c-4e4e-8d3f-46f48e94913d",
+    "data": [
+      {
+        "text": "What are the coordinates for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pearl District",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
