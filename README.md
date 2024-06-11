@@ -2,6 +2,8 @@
 
 ‘Maxine’ is a virtual transit assistant that helps the user plan a trip on Portland’s MAX and streetcar metro systems. The purpose of the application is to provide users with detailed routes including stops, transfers, and estimated travel times. Additional information includes total duration, the fare for the trip, and transfers. The application also provides alerts for different MAX routes and stops. You can even find the closest MAX station to a given location. The app aims to enhance the commuting experience by offering accurate and user-friendly transit information in a quick and easy manner.
 
+Test demo can be found here: [Dialogflow Bot](https://bot.dialogflow.com/eeaf8336-c188-480f-a00f-6c7cf4b3d6cc)
+
 ## Interaction Model
 This application contains 6 total intents. Some of them are simply for the chat agent to introduce itself or help guide the user, but I will focus on four of the custom intents that provide important functionality to the application:
 
