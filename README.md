@@ -4,6 +4,15 @@
 
 Test demo can be found here: [Dialogflow Bot](https://bot.dialogflow.com/eeaf8336-c188-480f-a00f-6c7cf4b3d6cc)
 
+## Setup Instructions
+1. Clone the repository locally
+2. Log into the Dialogflow console
+3. Create a new agent titled 'Maxine' or 'Trimet Tracker', or whatever name you prefer.
+4. Upon creation of the new agent, click on the gear icon that opens the agent settings dashboard. Click on 'Export and Import'
+5. Select 'Restore From Zip' and upload the 'trimet-tracker.zip' file in the base directory of this project
+6. Next, go to the 'Fulfillment' section on the left side bar
+7. 
+
 ## Interaction Model
 This application contains 6 total intents. Some of them are simply for the chat agent to introduce itself or help guide the user, but I will focus on four of the custom intents that provide important functionality to the application:
 
